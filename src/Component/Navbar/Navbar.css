@@ -1,0 +1,30 @@
+*{
+    margin-top:0px ;
+}
+
+.navbar{
+    background-color: black;
+    color: black;
+    height: 100px;
+
+
+}
+
+.navbar h1{
+    color: white;
+    text-align: center;
+    font-family: 'Beau Rivage', cursive;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    
+}
+.navbar p{
+    color: #F10086;
+    text-align: center;
+    font-family: 'Beau Rivage', cursive;
+    letter-spacing: 3px;
+    word-spacing: 7px;
+    font-size: 18px;
+    line-height: 5px;
+  
+}
